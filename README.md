@@ -56,7 +56,7 @@ $ expo start / npm start
 ![image](http://github.com/ailswan/Picture-search-mobile-app/img/Simulator-Screen-Shot-iPhone2.png)
 # Results Screen: 
 > an infinite scroll list of image results according to the results of typed keyword
-![image](http://github.com/ailswan/Picture-search-mobile-app/img/Simulator-Screen-Shot-iPhone3.png)
+![image](img/Simulator-Screen-Shot-iPhone3.png)
 ![image](http://github.com/ailswan/Picture-search-mobile-app/img/Simulator-Screen-Shot-iPhone4.png)
 # Detail Screen: 
 > full image with information of author and keyword tags according to the selected picture in the Results Screen
