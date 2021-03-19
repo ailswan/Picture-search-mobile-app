@@ -1,7 +1,7 @@
 Picture Gallery -- Mobile Application (android, ios)
 This mobile app was built by myself following the requirements from HOWL. It took about 4-5 hours. The primary focus was on using React Native and Javascript ES6 to dynamically rendering API from pixabay.com. React Hooks was used for state management. And React Navigation was used for three screens. React context API was used for managing global statements in the app.
 
-// 放一个动态视频
+ 
 ·Table of Contents 
   Installing
   Tech-stack
