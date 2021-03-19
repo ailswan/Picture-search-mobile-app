@@ -1,4 +1,4 @@
-# Picture Gallery -- Mobile Application (android, ios)
+# Picture Gallery -- Mobile Application (android, ios, web)
 This mobile app was built by myself following the requirements from HOWL. It took about 4-5 hours. The primary focus was on using React Native and Javascript ES6 to dynamically rendering API from pixabay.com. React Hooks was used for state management. And React Navigation was used for three screens. React context API was used for managing global statements in the app.
 
  
@@ -50,13 +50,13 @@ $ expo start / npm start
       CSS
 
 ##  3. Components
-# # # Search Screen: 
+# Search Screen: 
 > a search bar for typing keyword
 
-# # # Results Screen: 
+# Results Screen: 
 > an infinite scroll list of image results according to the results of typed keyword
 
-# # # Detail Screen: 
+# Detail Screen: 
 > full image with information of author and keyword tags according to the selected picture in the Results Screen
 
 
