@@ -36,6 +36,10 @@ $ npm install --global expo-cli
 ```
 $ brew install watchman
 ```
+>*install npm packages*
+```
+$ npm install
+```
 >*open expo localhost web page for selecting simulator*
 ```
 $ expo start / npm start
