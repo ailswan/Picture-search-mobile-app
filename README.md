@@ -9,36 +9,36 @@ This mobile app was built by myself following the requirements from HOWL. It too
  
 
 # # 1. Installing the app
-	>*Install Xcode for simulators*
-      ```
-      install Xcode in the app store
-      ```
-	>*Open the document*
-      ```
-      $ cd Howl
-      ```
-	>*update npm package*
-      ```
-      $ npm install npm@latest -g
-      ```
-	>*install expo*
-      ```
-      $ npm install --global expo-cli
-      ```
-	>*install watchman*
-      ```
-      $ brew install watchman
-      ```
-	>*open expo localhost web page for selecting simulator*
-      ```
-      $ expo start / npm start
-      ```
-  >*After the localhost web page for Metro Builder is ran, selecting the simulator or scan the QR code for running on a real mobile phone:*
-      ```
-      ·Run on Android device/emulator
-      ·Run on IOS simulator
-      ·Run in web browser
-      ```
+>*Install Xcode for simulators*
+```
+install Xcode in the app store
+```
+>*Open the document*
+```
+$ cd Howl
+```
+>*update npm package*
+```
+$ npm install npm@latest -g
+```
+>*install expo*
+```
+$ npm install --global expo-cli
+```
+>*install watchman*
+```
+$ brew install watchman
+```
+>*open expo localhost web page for selecting simulator*
+```
+$ expo start / npm start
+```
+>*After the localhost web page for Metro Builder is ran, selecting the simulator or scan the QR code for running on a real mobile phone:*
+```
+·Run on Android device/emulator
+·Run on IOS simulator
+·Run in web browser
+```
 
 
 ##  2. Tech-stack
@@ -50,14 +50,14 @@ This mobile app was built by myself following the requirements from HOWL. It too
       CSS
 
 ##  3. Components
-      # # # Search Screen: 
-      > a search bar for typing keyword
+# # # Search Screen: 
+> a search bar for typing keyword
 
-      # # # Results Screen: 
-      > an infinite scroll list of image results according to the results of typed keyword
+# # # Results Screen: 
+> an infinite scroll list of image results according to the results of typed keyword
 
-      # # # Detail Screen: 
-      > full image with information of author and keyword tags according to the selected picture in the Results Screen
+# # # Detail Screen: 
+> full image with information of author and keyword tags according to the selected picture in the Results Screen
 
 
 
