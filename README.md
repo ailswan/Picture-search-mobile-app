@@ -72,7 +72,7 @@ $ expo start / npm start
 
 ##  4.Api-Key
 In the document of app.json, there is the "API_KEY" under the object "extra". Please replace the *** by 999 as the picture below.
-<div align=center><img width="600" height="auto" src="img/key.png"/></div>
+<div align=center><img width="350" height="auto" src="img/key.png"/></div>
 
 
        
