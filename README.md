@@ -8,6 +8,7 @@ This mobile app was built by myself following the requirements from HOWL. It too
   Installing
   Tech-stack
   Components
+  Api-Key
  
 
 ##  1. Installing the app
@@ -18,6 +19,10 @@ install Xcode in the app store
 >*Open the document*
 ```
 $ cd Picture-search-mobile-app
+```
+>*Add the API-KEY*
+```
+replace the *** following the introduction of 4.api-key under this readme
 ```
 >*update npm package*
 ```
@@ -65,6 +70,12 @@ $ expo start / npm start
 <div align=center><img width="200" height="auto" src="img/Simulator-Screen-Shot-iPhone5.png"/></div>
 
 
+##  4.Api-Key
+In the document of app.json, there is the "API_KEY" under the object "extra". Please replace the *** by 999 as the picture below.
+<div align=center><img width="600" height="auto" src="img/key.png"/></div>
+
+
+       
 
 
 
