@@ -17,7 +17,7 @@ install Xcode in the app store
 ```
 >*Open the document*
 ```
-$ cd Howl
+$ cd Picture-search-mobile-app
 ```
 >*update npm package*
 ```
