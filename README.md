@@ -63,7 +63,7 @@ $ expo start / npm start
 
 # Detail Screen: 
 > full image with information of author and keyword tags according to the selected picture in the Results Screen
-<div align=center><img width="200" height="auto" src="img/Simulator-Screen-Shot-iPhone5.png"/> <img width="200" height="auto" src="img/Simulator-Screen-Shot-iPhone6.png"/></div>
+<div align=center><img width="200" height="auto" src="img/Simulator-Screen-Shot-iPhone5.png"/></div>
 
 
 
