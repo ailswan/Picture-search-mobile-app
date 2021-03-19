@@ -52,6 +52,7 @@ $ expo start / npm start
 ##  3. Components
 # Search Screen: 
 > a search bar for typing keyword
+<img width="150" height="auto" src="img/Simulator-Screen-Shot-iPhone1.png"/>
 ![image](img/Simulator-Screen-Shot-iPhone1.png)
 ![image](img/Simulator-Screen-Shot-iPhone2.png)
 # Results Screen: 
