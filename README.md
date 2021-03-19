@@ -1,6 +1,6 @@
 # Picture Gallery -- Mobile Application (android, ios, web)
 This mobile app was built by myself following the requirements from HOWL. It took about 4-5 hours. The primary focus was on using React Native and Javascript ES6 to dynamically rendering API from pixabay.com. React Hooks was used for state management. And React Navigation was used for three screens. React context API was used for managing global statements in the app.
-![image](http://github.com/ailswan/Picture-search-mobile-app/img/HD demo.mp4)
+http://github.com/ailswan/Picture-search-mobile-app/img/HD-demo.mp4
  
 # Table of Contents 
   Installing
@@ -52,12 +52,15 @@ $ expo start / npm start
 ##  3. Components
 # Search Screen: 
 > a search bar for typing keyword
-
+![image](http://github.com/ailswan/Picture-search-mobile-app/img/Simulator Screen Shot - iPhone 11 - 2021-03-19 at 09.31.58.png)
+![image](http://github.com/ailswan/Picture-search-mobile-app/img/Simulator Screen Shot - iPhone 11 - 2021-03-19 at 09.34.04.png)
 # Results Screen: 
 > an infinite scroll list of image results according to the results of typed keyword
-
+![image](http://github.com/ailswan/Picture-search-mobile-app/img/Simulator Screen Shot - iPhone 11 - 2021-03-19 at 09.34.27.png)
 # Detail Screen: 
 > full image with information of author and keyword tags according to the selected picture in the Results Screen
+![image](http://github.com/ailswan/Picture-search-mobile-app/img/Simulator Screen Shot - iPhone 11 - 2021-03-19 at 09.36.32.png)
+
 
 
 
