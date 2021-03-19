@@ -52,15 +52,15 @@ $ expo start / npm start
 ##  3. Components
 # Search Screen: 
 > a search bar for typing keyword
-<div align=center><img width="200" height="auto" src="img/Simulator-Screen-Shot-iPhone1.png"/><img width="200" height="auto" src="img/Simulator-Screen-Shot-iPhone2.png"/></div>
+<div align=center><img width="200" height="auto" src="img/Simulator-Screen-Shot-iPhone1.png"/>{' '}<img width="200" height="auto" src="img/Simulator-Screen-Shot-iPhone2.png"/></div>
 
 # Results Screen: 
 > an infinite scroll list of image results according to the results of typed keyword
-<div align=center><img width="200" height="auto" src="img/Simulator-Screen-Shot-iPhone3.png"/><img width="200" height="auto" src="img/Simulator-Screen-Shot-iPhone4.png"/></div>
+<div align=center><img width="200" height="auto" src="img/Simulator-Screen-Shot-iPhone3.png"/>{'  '}<img width="200" height="auto" src="img/Simulator-Screen-Shot-iPhone4.png"/></div>
 
 # Detail Screen: 
 > full image with information of author and keyword tags according to the selected picture in the Results Screen
-<div align=center><img width="200" height="auto" src="img/Simulator-Screen-Shot-iPhone5.png"/><img width="200" height="auto" src="img/Simulator-Screen-Shot-iPhone4.png"/></div>
+<div align=center><img width="200" height="auto" src="img/Simulator-Screen-Shot-iPhone5.png"/>{' '}<img width="200" height="auto" src="img/Simulator-Screen-Shot-iPhone4.png"/></div>
 
 
 
