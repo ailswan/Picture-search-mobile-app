@@ -1,6 +1,6 @@
 # Picture Gallery -- Mobile Application (android, ios, web)
 This mobile app was built by myself following the requirements from HOWL. It took about 4-5 hours. The primary focus was on using React Native and Javascript ES6 to dynamically rendering API from pixabay.com. React Hooks was used for state management. And React Navigation was used for three screens. React context API was used for managing global statements in the app.
-
+![image](http://github.com/ailswan/Picture-search-mobile-app/img/HD demo.mp4)
  
 # Table of Contents 
   Installing
@@ -8,7 +8,7 @@ This mobile app was built by myself following the requirements from HOWL. It too
   Components
  
 
-# # 1. Installing the app
+##  1. Installing the app
 >*Install Xcode for simulators*
 ```
 install Xcode in the app store
