@@ -52,16 +52,20 @@ $ expo start / npm start
 ##  3. Components
 # Search Screen: 
 > a search bar for typing keyword
-<img width="150" height="auto" src="img/Simulator-Screen-Shot-iPhone1.png"/>
-![image](img/Simulator-Screen-Shot-iPhone1.png)
-![image](img/Simulator-Screen-Shot-iPhone2.png)
+<div align=center><img width="200" height="auto" src="img/Simulator-Screen-Shot-iPhone1.png"/></div>
+<img width="200" height="auto" src="img/Simulator-Screen-Shot-iPhone1.png"/>
+<img width="200" height="auto" src="img/Simulator-Screen-Shot-iPhone2.png"/>
+
+
 # Results Screen: 
 > an infinite scroll list of image results according to the results of typed keyword
-![image](img/Simulator-Screen-Shot-iPhone3.png)
-![image](img/Simulator-Screen-Shot-iPhone4.png)
+<img width="200" height="auto" src="img/Simulator-Screen-Shot-iPhone3.png"/>
+<img width="200" height="auto" src="img/Simulator-Screen-Shot-iPhone4.png"/>
+
 # Detail Screen: 
 > full image with information of author and keyword tags according to the selected picture in the Results Screen
-![image](img/Simulator-Screen-Shot-iPhone5.png)
+<img width="200" height="auto" src="img/Simulator-Screen-Shot-iPhone5.png"/>
+ 
 
 
 
